@@ -1,3 +1,0 @@
-ErrorDocument 404 /sakila/errores/404.php
-
-ErrorDocument 403 /sakila/errores/404.php
